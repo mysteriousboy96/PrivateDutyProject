@@ -1,0 +1,7 @@
+Navigating to base URL: https://pd.kantimehealth.net/kantime/Login.aspx
+Main menu: 'Clients'
+Sub menu: 'New Client'
+Error while clicking menu: Locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("//tr[@class='MainMenurow']/td/table/tbody/tr/td[text()='Clients']")
+

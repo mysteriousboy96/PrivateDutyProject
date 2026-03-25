@@ -1,0 +1,2 @@
+Navigating to base URL: https://pd.kantimehealth.net/kantime/Login.aspx
+Error while performing login: list indices must be integers or slices, not str

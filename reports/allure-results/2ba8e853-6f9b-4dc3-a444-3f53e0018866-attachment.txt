@@ -1,0 +1,8 @@
+Navigating to base URL: https://pd.kantimehealth.net/kantime/Login.aspx
+Main menu: 'Clients'
+Sub menu: 'New Client'
+Found 4 submenu elements
+Comparing: 'Client List' == 'New Client'
+Comparing: 'Family Portal Accounts' == 'New Client'
+Comparing: 'New Client' == 'New Client'
+✓ Match found! Clicking: ' New Client '

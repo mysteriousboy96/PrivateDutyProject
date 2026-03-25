@@ -1,0 +1,16 @@
+Navigating to base URL: https://pd.kantimehealth.net/kantime/Login.aspx
+Main menu: 'Clients'
+Sub menu: 'New Client'
+Found 4 submenu elements
+Comparing: 'Client List' == 'New Client'
+Comparing: 'Family Portal Accounts' == 'New Client'
+Comparing: 'New Client' == 'New Client'
+✓ Match found! Clicking: ' New Client '
+Error while getting entering Over Ride Bill Rate for job type '12 Hour Temp' : Locator.is_disabled: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("//td[@class='RowNormalFont'][contains(normalize-space(),'12 Hour Temp')]/input[@type='checkbox']/parent::td/following-sibling::td[1]/input")
+
+Error while adding new client: Locator.is_disabled: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("//td[@class='RowNormalFont'][contains(normalize-space(),'12 Hour Temp')]/input[@type='checkbox']/parent::td/following-sibling::td[1]/input")
+

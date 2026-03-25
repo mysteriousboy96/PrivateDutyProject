@@ -1,0 +1,2 @@
+Navigating to base URL: https://pd.kantimehealth.net/kantime/Login.aspx
+Error while clicking menu: Sub menu 'New Client' not found under main menu 'Clients'

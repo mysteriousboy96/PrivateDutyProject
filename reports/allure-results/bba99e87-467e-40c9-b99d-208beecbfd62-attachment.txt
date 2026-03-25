@@ -1,0 +1,5 @@
+Navigating to base URL: https://pd.kantimehealth.net/kantime/Login.aspx
+Clicking main menu: Caregivers
+Looking for submenu items...
+Found submenu items: ['\xa0Caregiver\xa0Advanced\xa0Search\xa0', '\xa0Caregiver\xa0Availability\xa0', '\xa0Caregiver\xa0List\xa0', '\xa0New\xa0Caregiver\xa0', '']
+Error while clicking menu: Sub menu 'Caregiver List' not found. Available: ['\xa0Caregiver\xa0Advanced\xa0Search\xa0', '\xa0Caregiver\xa0Availability\xa0', '\xa0Caregiver\xa0List\xa0', '\xa0New\xa0Caregiver\xa0', '']
